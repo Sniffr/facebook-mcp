@@ -1,0 +1,7 @@
+# Facebook Marketplace MCP server dependencies
+mcp>=2.0,<3
+facebook-gql-scraper>=0.10.0,<0.11
+
+# Automatic cookie capture via `python get_cookies.py` (Chrome DevTools Protocol)
+websockets>=12
+requests>=2.31

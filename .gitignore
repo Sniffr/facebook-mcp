@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Secrets / local state (never commit your Facebook cookies)
+facebook_cookies.json
+facebook_state.json
+facebook_cookies.browser.json
+.env
+.chrome-profile/
+graphql_debug/
+
+# Reference clones pulled from GitHub during research
+.research/
+
+# OS
+.DS_Store

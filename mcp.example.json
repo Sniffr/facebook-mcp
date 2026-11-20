@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "facebook-marketplace": {
+      "command": "/path/to/facebook-mcp/.venv/bin/python",
+      "args": ["/path/to/facebook-mcp/server.py"],
+      "env": {
+        "FACEBOOK_COOKIES_FILE": "/path/to/facebook-mcp/facebook_cookies.json",
+        "GEONODE_PROXY_URL": "http://YOUR_GEONODE_USERNAME:YOUR_GEONODE_PASSWORD@YOUR_PROXY_HOST:9000"
+      }
+    }
+  }
+}
