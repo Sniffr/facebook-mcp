@@ -276,3 +276,8 @@ creation, or other writes.
   prefetching for doc-id discovery, and currency disambiguation)
 - [`jdcodes1/facebook-marketplace-mcp`](https://github.com/jdcodes1/facebook-marketplace-mcp) — reference for MCP tool design (search/get-listing)
 - [Geonode](https://geonode.com) — proxy provider
+
+## License
+
+[MIT](LICENSE). Note that the license covers this code only; it grants no
+rights under Facebook's Terms of Service (see the legal note above).
